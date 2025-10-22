@@ -74,7 +74,7 @@ export default function Hero() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/ayushmishra9858"
+                href="https://www.linkedin.com/in/ayush-mishra9858/"
                 target="_blank"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
